@@ -58,10 +58,10 @@ print(x)
 ## Output:
 
 ### L and U matrix
-![lu decomposition](/lu%20-1%20.png)
+![lu -1 ](https://github.com/Abishai95141/LU-Decomposition/assets/139335314/73ea9c5c-c197-402a-94e0-b382445481cd)
 
 ### LU Decomposition of a matrix
-![output](/lu%20-2.png)
+![lu -2](https://github.com/Abishai95141/LU-Decomposition/assets/139335314/07dfb29e-f70b-4852-b85b-65a5295892e0)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
